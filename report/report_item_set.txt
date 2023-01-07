@@ -1,0 +1,65 @@
+<Itemset id=0 has 8 item(s)
+	<Item E` → ● E $ >
+	<Item +E → ● M >
+	<Item +E → ● E + M >
+	<Item +M → ● B >
+	<Item +M → ● M * B >
+	<Item +B → ● ( E ) >
+	<Item +B → ● 0 >
+	<Item +B → ● 1 >
+ >
+<Itemset id=1 has 8 item(s)
+	<Item B → ( ● E ) >
+	<Item +E → ● M >
+	<Item +E → ● E + M >
+	<Item +M → ● B >
+	<Item +M → ● M * B >
+	<Item +B → ● ( E ) >
+	<Item +B → ● 0 >
+	<Item +B → ● 1 >
+ >
+<Itemset id=2 has 1 item(s)
+	<Item B → 0 ● >
+ >
+<Itemset id=3 has 1 item(s)
+	<Item B → 1 ● >
+ >
+<Itemset id=4 has 1 item(s)
+	<Item M → B ● >
+ >
+<Itemset id=5 has 2 item(s)
+	<Item E` → E ● $ >
+	<Item E → E ● + M >
+ >
+<Itemset id=6 has 2 item(s)
+	<Item E → M ● >
+	<Item M → M ● * B >
+ >
+<Itemset id=7 has 2 item(s)
+	<Item B → ( E ● ) >
+	<Item E → E ● + M >
+ >
+<Itemset id=8 has 6 item(s)
+	<Item E → E + ● M >
+	<Item +M → ● B >
+	<Item +M → ● M * B >
+	<Item +B → ● ( E ) >
+	<Item +B → ● 0 >
+	<Item +B → ● 1 >
+ >
+<Itemset id=9 has 4 item(s)
+	<Item M → M * ● B >
+	<Item +B → ● ( E ) >
+	<Item +B → ● 0 >
+	<Item +B → ● 1 >
+ >
+<Itemset id=10 has 1 item(s)
+	<Item B → ( E ) ● >
+ >
+<Itemset id=11 has 2 item(s)
+	<Item E → E + M ● >
+	<Item M → M ● * B >
+ >
+<Itemset id=12 has 1 item(s)
+	<Item M → M * B ● >
+ >
